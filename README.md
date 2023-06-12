@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Pozas</h1>
 <h3 align="center">A passionate engineering student</h3>
 
-- 💬 Ask me about **Python, HTML, CSS and Javascript**
+- 💬 Ask me about **Python, HTML, SCSS and Tavascript**
 
 - 📫 How to reach me **marc.pozas11@gmail.com**
 
